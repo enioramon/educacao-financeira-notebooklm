@@ -1,6 +1,3 @@
-# educacao-financeira-notebooklm
-Projeto desenvolvido como parte do curso de GenIA e Dados da DIO, utilizando o NotebookLM para construção de um caderno temático sobre Educação Financeira. O trabalho envolve curadoria de fontes abertas, definição de objetivos de estudo, elaboração de prompts e organização do conhecimento com apoio de IA generativa.
-
 # 📘 Educação Financeira com NotebookLM
 
 Este repositório faz parte de um desafio do curso **GenIA e Dados** da DIO.
